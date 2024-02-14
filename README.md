@@ -12,8 +12,9 @@ The sample dataset summarizes the usage behavior of approximately 9000 active cr
 
 **Data:**
 
--Use the following link to download the dataset: <Credit Card Dataset for Clustering (kaggle.com)>
--The Data is also uploaded on this repository by name CC General.csv
+- Use the following link to download the dataset: [Credit Card Dataset for Clustering (kaggle.com)]<br>
+- The Data is also uploaded on this repository by name CC General.csv
+
 
 **Attribute Information:**
 
