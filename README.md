@@ -51,7 +51,7 @@ The code imports necessary libraries for data analysis and clustering, including
 ## **3. Outlier Detection:**
 - Find outliers in all columns.
 - Remove outliers from columns with nearly 10% outlier.
-### Glimpse of my Dashboard:
+
 <p align="center">
   <img width="100%" src="Heatmap.png" />
 </p>
@@ -63,7 +63,7 @@ The code imports necessary libraries for data analysis and clustering, including
 - Use PCA to convert the dataframe into a 2D dataframe for visualization.
 ## **6. Hyperparameter Tuning:**
 - Find the optimal 'k' value using the Elbow Method.
-### Glimpse of my Dashboard:
+
 <p align="center">
   <img width="100%" src="Elbow-Method.png" />
 </p>
@@ -71,7 +71,7 @@ The code imports necessary libraries for data analysis and clustering, including
 ## **7. Model Building:**
 - Apply K-Means clustering with the optimal 'k' value.
 - Visualize the clustered data using a scatter plot.
-### Glimpse of my Dashboard:
+
 <p align="center">
   <img width="100%" src="k-mean.png" />
 </p>
