@@ -87,5 +87,5 @@ The code imports necessary libraries for data analysis and clustering, including
 - Analyze each cluster to understand customer segments.
 ## **10. Save The Model:**
 - Save the K-Means model.
-- Save the clustered dataframe as a CSV file.
+- Save the file as Clustered_Customer_Data.csv .
 
